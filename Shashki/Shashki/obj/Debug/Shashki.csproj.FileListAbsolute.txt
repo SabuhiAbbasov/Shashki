@@ -1,0 +1,10 @@
+D:\Shashki\Shashki\Shashki\bin\Debug\Shashki.exe.config
+D:\Shashki\Shashki\Shashki\bin\Debug\Shashki.exe
+D:\Shashki\Shashki\Shashki\bin\Debug\Shashki.pdb
+D:\Shashki\Shashki\Shashki\obj\Debug\Shashki.csprojResolveAssemblyReference.cache
+D:\Shashki\Shashki\Shashki\obj\Debug\Shashki.Form1.resources
+D:\Shashki\Shashki\Shashki\obj\Debug\Shashki.Properties.Resources.resources
+D:\Shashki\Shashki\Shashki\obj\Debug\Shashki.csproj.GenerateResource.Cache
+D:\Shashki\Shashki\Shashki\obj\Debug\Shashki.csproj.CoreCompileInputs.cache
+D:\Shashki\Shashki\Shashki\obj\Debug\Shashki.exe
+D:\Shashki\Shashki\Shashki\obj\Debug\Shashki.pdb
